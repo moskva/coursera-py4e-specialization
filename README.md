@@ -2,6 +2,7 @@
 
 ## Intro
 Coursera: [Python for Everybody](https://www.coursera.org/specializations/python)
+
 Instructor: [Charles Russell Severance](https://www.coursera.org/instructor/drchuck)
 
 ## Specialization - 5 course series
